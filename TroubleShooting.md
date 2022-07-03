@@ -6,6 +6,9 @@ file: TroubleShooting.md
 
 desc: iPhone SE(2nd gen) rear facing camera black screen
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+### Trouble shooting steps
 
 - Identify: the native camera applet: front facing works correctly, rear facing: black screen and "take picture button" unresponsive
   
