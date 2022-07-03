@@ -8,7 +8,7 @@ desc: iPhone SE(2nd gen) rear facing camera black screen
 
 - Theory_1: soft reset
 
-  Test theory: rear facing camera still doesn't work $\checkmark$
+  Test theory: rear facing camera still doesn't work
   
 - Theory_2: reset to default settings
 
@@ -26,7 +26,7 @@ desc: iPhone SE(2nd gen) rear facing camera black screen
 
   Test theory: The system repair diagnosed a hardware issue with the camera
   
-- System functionaliity
+- System functionaliity:
 
   Hardware issue with rear facing camera remains
   
